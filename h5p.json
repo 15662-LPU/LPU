@@ -1,1 +1,20 @@
-{"title":"Análisis de Caso: Donación de Órganos","language":"es","mainLibrary":"H5P.SingleChoiceSet","embedTypes":["div"],"license":"U","defaultLanguage":"es","preloadedDependencies":[{"machineName":"H5P.SingleChoiceSet","majorVersion":1,"minorVersion":11},{"machineName":"H5P.JoubelUI","majorVersion":1,"minorVersion":3}]}
+{
+  "title": "Análisis de Caso: Donación de Órganos",
+  "language": "es",
+  "mainLibrary": "H5P.SingleChoiceSet",
+  "embedTypes": ["div"],
+  "license": "U",
+  "defaultLanguage": "es",
+  "preloadedDependencies": [
+    {
+      "machineName": "H5P.SingleChoiceSet",
+      "majorVersion": 1,
+      "minorVersion": 11
+    },
+    {
+      "machineName": "H5P.JoubelUI",
+      "majorVersion": 1,
+      "minorVersion": 3
+    }
+  ]
+}

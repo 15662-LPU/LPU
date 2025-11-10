@@ -1,0 +1,100 @@
+{
+  "choices": [
+    {
+      "question": "<p>Raúl (hermano, 15 años)</p>",
+      "answers": [
+        "Sí, puede ser donador",
+        "*No puede ser donador",
+        "Probable"
+      ]
+    },
+    {
+      "question": "<p>Laura (hermana, 19 años, con retraso mental)</p>",
+      "answers": [
+        "Sí, puede ser donador",
+        "*No puede ser donador",
+        "Probable"
+      ]
+    },
+    {
+      "question": "<p>Papá (50 años, sano)</p>",
+      "answers": [
+        "*Sí, puede ser donador",
+        "No puede ser donador",
+        "Probable"
+      ]
+    },
+    {
+      "question": "<p>Mamá (diabética, en control médico)</p>",
+      "answers": [
+        "Sí, puede ser donador",
+        "No puede ser donador",
+        "*Probable, si médicamente es seguro"
+      ]
+    },
+    {
+      "question": "<p>Claudia (hermana mayor, 20 años)</p>",
+      "answers": [
+        "*Sí, puede ser donador",
+        "No puede ser donador",
+        "Probable"
+      ]
+    },
+    {
+      "question": "<p>María (prima segunda, 35 años, embarazada)</p>",
+      "answers": [
+        "Sí, puede ser donador",
+        "*No puede ser donador",
+        "Probable"
+      ]
+    },
+    {
+      "question": "<p>Saúl (compañero de trabajo de Claudia)</p>",
+      "answers": [
+        "Sí, puede ser donador",
+        "No puede ser donador",
+        "*Probable, con resolución favorable"
+      ]
+    }
+  ],
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 49,
+      "feedback": "Revisa los artículos de la Ley. Necesitas estudiar más sobre los requisitos legales para donación de órganos."
+    },
+    {
+      "from": 50,
+      "to": 79,
+      "feedback": "Buen trabajo. Entiendes los requisitos básicos, pero revisa algunos casos específicos."
+    },
+    {
+      "from": 80,
+      "to": 100,
+      "feedback": "¡Excelente! Dominas los requisitos legales para donación de órganos según la Ley mexicana."
+    }
+  ],
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "passPercentage": 80,
+    "autoContinue": false
+  },
+  "l10n": {
+    "nextButtonLabel": "Siguiente",
+    "showSolutionButtonLabel": "Mostrar solución",
+    "retryButtonLabel": "Reintentar",
+    "solutionViewTitle": "Respuestas correctas",
+    "correctText": "Correcto",
+    "incorrectText": "Incorrecto",
+    "shouldCheck": "Debería haberse seleccionado",
+    "shouldNotCheck": "No debería haberse seleccionado",
+    "muteButtonLabel": "Silenciar comentarios",
+    "closeButtonLabel": "Cerrar",
+    "slideOfTotal": "Diapositiva :num de :total",
+    "scoreBarLabel": "Has obtenido :num de :total puntos",
+    "solutionListQuestionNumber": "Pregunta :num",
+    "a11yShowSolution": "Mostrar la solución. La tarea mostrará las respuestas correctas.",
+    "a11yRetry": "Reintentar la tarea. Restablecer todas las respuestas y comenzar de nuevo."
+  }
+}
