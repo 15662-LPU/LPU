@@ -1,0 +1,136 @@
+{
+  "choices": [
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
+      "question": "<p>¿Qué instrumento musical se menciona en el guion como símbolo de la memoria y herencia cultural afromexicana?</p>",
+      "answers": [
+        "Los tambores",
+        "Las guitarras",
+        "Las flautas",
+        "Los violines"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567802",
+      "question": "<p>Según el discurso de Audel Urbina, ¿qué representa ser afromexicano en la actualidad?</p>",
+      "answers": [
+        "Una identidad que camina, crea y enseña",
+        "Una idea del pasado",
+        "Solo una herencia musical",
+        "Una tradición olvidada"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567803",
+      "question": "<p>¿Cuáles son los cuatro valores que el discurso identifica como parte de la herencia cultural afromexicana?</p>",
+      "answers": [
+        "Trabajo, resistencia, alegría y comunidad",
+        "Fe, esperanza, amor y paz",
+        "Música, danza, gastronomía y artesanía",
+        "Historia, lengua, territorio y religión"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567804",
+      "question": "<p>¿Cuál es el nombre y frecuencia del programa de radio mencionado en la introducción del guion?</p>",
+      "answers": [
+        "Afrovoces 90.5 FM",
+        "Voces del Sur 90.5 FM",
+        "Radio Afro 91.5 FM",
+        "Cultura Viva 90.5 FM"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567805",
+      "question": "<p>Según el guion, ¿quiénes guardaron durante generaciones la herencia cultural afromexicana en la palabra, el canto y la celebración?</p>",
+      "answers": [
+        "Las abuelas y abuelos",
+        "Los maestros y estudiantes",
+        "Los gobernantes y líderes",
+        "Los artistas y músicos"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567806",
+      "question": "<p>¿En qué espacios menciona el discurso que está presente la cultura afromexicana?</p>",
+      "answers": [
+        "En la costa, los pueblos, la familia, la escuela, la calle y cualquier parte del mundo",
+        "Solo en las costas del Pacífico y el Atlántico",
+        "Únicamente en los museos y centros culturales",
+        "Solo en las zonas rurales del sur de México"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567807",
+      "question": "<p>Según el discurso de Audel Urbina, ¿qué nos recuerda el encuentro entre los pueblos afromexicanos?</p>",
+      "answers": [
+        "Que somos uno",
+        "Que somos diferentes y distintos",
+        "Que debemos separarnos para preservar la identidad",
+        "Que el pasado ya no importa"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567808",
+      "question": "<p>Según el guion, ¿qué cuentan los ritmos de la música afromexicana?</p>",
+      "answers": [
+        "Una historia",
+        "Solo alegría y fiesta",
+        "Leyendas y mitos",
+        "Profecías del futuro"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567809",
+      "question": "<p>¿Cuál es la frase filosófica que resume la identidad colectiva afromexicana en la introducción del guion?</p>",
+      "answers": [
+        "¡Yo soy, porque nosotros somos, afromexicanos!",
+        "¡Nosotros somos el futuro de México!",
+        "¡La cultura afromexicana vive en la música!",
+        "¡Yo soy afromexicano sin importar el lugar!"
+      ]
+    },
+    {
+      "subContentId": "a1b2c3d4-e5f6-7890-abcd-ef1234567810",
+      "question": "<p>¿Qué representan los movimientos de la danza afromexicana según el discurso de Audel Urbina?</p>",
+      "answers": [
+        "Nombran un origen",
+        "Son solo entretenimiento y espectáculo",
+        "Representan el futuro de la comunidad",
+        "Expresan únicamente alegría y celebración"
+      ]
+    }
+  ],
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 49,
+      "feedback": "Sigue aprendiendo sobre la rica cultura afromexicana. ¡Inténtalo de nuevo!"
+    },
+    {
+      "from": 50,
+      "to": 79,
+      "feedback": "¡Buen esfuerzo! Ya conoces varios aspectos de la cultura afromexicana. ¡Sigue adelante!"
+    },
+    {
+      "from": 80,
+      "to": 100,
+      "feedback": "¡Excelente! Demuestras un gran conocimiento sobre la identidad y cultura afromexicana. ¡Tú y yo somos afromexicanos!"
+    }
+  ],
+  "behaviour": {
+    "autoContinue": true,
+    "timeoutCorrect": 2000,
+    "timeoutWrong": 3000,
+    "soundEffectsEnabled": true,
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "passPercentage": 100
+  },
+  "l10n": {
+    "nextButtonLabel": "Siguiente pregunta",
+    "showSolutionButtonLabel": "Ver solución",
+    "retryButtonLabel": "Reintentar",
+    "solutionViewTitle": "Lista de soluciones"
+  }
+}
